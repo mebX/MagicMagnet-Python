@@ -82,7 +82,7 @@ while True:
             restartEvent, restartResult = restartWindow.read()
 
     if event == 'Support this project':
-        os.startfile('https://github.com/pedrolemoz/MagicMagnet/')
+        os.startfile('https://github.com/pedrolemoz/MagicMagnet-Python/')
 
     if event == 'About':
         aboutLayout = [
